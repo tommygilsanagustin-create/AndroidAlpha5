@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class RemoteMenuSender : MonoBehaviour
 {
+    [Header("PC")]
     public string pcIp = "192.168.1.162";
     public int pcPort = 7777;
 
@@ -17,13 +18,13 @@ public class RemoteMenuSender : MonoBehaviour
     public void SendDificil()
     {
         Debug.Log("[TABLET] BOTON DIFICIL");
-        Send("ADULTO");
+        Send("DIFICIL");
     }
 
     public void SendStandard()
     {
         Debug.Log("[TABLET] BOTON STANDARD");
-        Send("NINO");
+        Send("STANDARD");
     }
 
     void Send(string message)

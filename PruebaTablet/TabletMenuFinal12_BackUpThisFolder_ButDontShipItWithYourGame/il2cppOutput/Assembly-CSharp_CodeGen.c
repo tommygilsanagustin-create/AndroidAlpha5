@@ -1,0 +1,93 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void NeonButtonHover_Start_m7169C15B27D95B8519BFB4DF3FC58CAE67832D0F (void);
+extern void NeonButtonHover_OnPointerEnter_mF9230EC251E219C83E5E9F4B3EB2ACC092EC5225 (void);
+extern void NeonButtonHover_OnPointerExit_mB23ABF2B01A959DEE65BDCC56E8F3AA009D1CBAD (void);
+extern void NeonButtonHover__ctor_mD8746619837F1572526E4EC1A1B3B872371B119C (void);
+extern void RemoteMenuSender_SendDificil_m716F0102102B691B60A57674D263D8D2BE1F9BCF (void);
+extern void RemoteMenuSender_SendStandard_mD0CC7D254963892527070B62E6DB7D6E28341EEE (void);
+extern void RemoteMenuSender_SendRequest_m231207C70137235F1C9D91DF563EFA137A46A82C (void);
+extern void RemoteMenuSender__ctor_m8C504BD3705F489A47B260B194AF84E18E612217 (void);
+extern void U3CSendRequestU3Ed__4__ctor_m3728A282978B05857E562CF145B200264BAE247D (void);
+extern void U3CSendRequestU3Ed__4_System_IDisposable_Dispose_mEFE7F7C7F08F8619C1EB8A1A0903EDB196EC51E1 (void);
+extern void U3CSendRequestU3Ed__4_MoveNext_m7C5483112413B8EA58E82266ED3B3EA3F566C93A (void);
+extern void U3CSendRequestU3Ed__4_U3CU3Em__Finally1_m2BACB8AC69640B7497FF5AAE98AB1346BF8E98A5 (void);
+extern void U3CSendRequestU3Ed__4_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mE42C0D2ED309552B619081DFCDF7B8298F2B7C2E (void);
+extern void U3CSendRequestU3Ed__4_System_Collections_IEnumerator_Reset_m8FCA3B1CCEF13A2921FC4B42A88636DCBF85B24C (void);
+extern void U3CSendRequestU3Ed__4_System_Collections_IEnumerator_get_Current_mC55576A0C4058D814A0DF77AB1B6BFD433EB6D5C (void);
+extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
+extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[19] = 
+{
+	NeonButtonHover_Start_m7169C15B27D95B8519BFB4DF3FC58CAE67832D0F,
+	NeonButtonHover_OnPointerEnter_mF9230EC251E219C83E5E9F4B3EB2ACC092EC5225,
+	NeonButtonHover_OnPointerExit_mB23ABF2B01A959DEE65BDCC56E8F3AA009D1CBAD,
+	NeonButtonHover__ctor_mD8746619837F1572526E4EC1A1B3B872371B119C,
+	RemoteMenuSender_SendDificil_m716F0102102B691B60A57674D263D8D2BE1F9BCF,
+	RemoteMenuSender_SendStandard_mD0CC7D254963892527070B62E6DB7D6E28341EEE,
+	RemoteMenuSender_SendRequest_m231207C70137235F1C9D91DF563EFA137A46A82C,
+	RemoteMenuSender__ctor_m8C504BD3705F489A47B260B194AF84E18E612217,
+	U3CSendRequestU3Ed__4__ctor_m3728A282978B05857E562CF145B200264BAE247D,
+	U3CSendRequestU3Ed__4_System_IDisposable_Dispose_mEFE7F7C7F08F8619C1EB8A1A0903EDB196EC51E1,
+	U3CSendRequestU3Ed__4_MoveNext_m7C5483112413B8EA58E82266ED3B3EA3F566C93A,
+	U3CSendRequestU3Ed__4_U3CU3Em__Finally1_m2BACB8AC69640B7497FF5AAE98AB1346BF8E98A5,
+	U3CSendRequestU3Ed__4_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mE42C0D2ED309552B619081DFCDF7B8298F2B7C2E,
+	U3CSendRequestU3Ed__4_System_Collections_IEnumerator_Reset_m8FCA3B1CCEF13A2921FC4B42A88636DCBF85B24C,
+	U3CSendRequestU3Ed__4_System_Collections_IEnumerator_get_Current_mC55576A0C4058D814A0DF77AB1B6BFD433EB6D5C,
+	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
+	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[19] = 
+{
+	13014,
+	9870,
+	9870,
+	13014,
+	13014,
+	13014,
+	8433,
+	13014,
+	9813,
+	13014,
+	12644,
+	13014,
+	12826,
+	13014,
+	12826,
+	13014,
+	13014,
+	22533,
+	13014,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	19,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
